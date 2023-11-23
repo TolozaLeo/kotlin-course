@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tarea clase 2</string>
+    <string name="name_champ">Darius</string>
+    <string name="description_champ">Es un personaje que se juega en TOP,\n si bien puede aguantar golpes, hace\n mucho danio</string>
+    <string name="button_selectable">SELECCIONAR</string>
+</resources>
